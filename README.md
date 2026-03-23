@@ -1,9 +1,3 @@
-# new_repo
+# Legacy Web Portfolio
 
-This is the reposirtory for trial purpose . this is the fist diretory
-helo
-
-<p>hello world printed here<p>
-This is the updated readme
-
-changes done
+This repository holds my very first web portfolio, built entirely with fundamental HTML and CSS from my early days of learning to code. I keep this project archived here as a time capsule to track my journey and growth as a developer over time.
